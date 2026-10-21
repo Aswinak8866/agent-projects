@@ -1,0 +1,7 @@
+venv/
+airflow_home/
+scheduler.log
+web.log
+*.log
+__pycache__/
+*.pyc
